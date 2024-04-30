@@ -1,4 +1,4 @@
-# Cambridge-ConFAR-Research
+# Continual Learning ML Research
 Updates and Version control for my models and code
 
 ```mermaid
